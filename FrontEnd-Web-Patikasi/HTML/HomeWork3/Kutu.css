@@ -14,29 +14,19 @@
 
 
 
-.cont1{
-    margin-top: 5px;
-    margin-left:25px;
-    width: 700px;
-    height: 50px;
+.footer{
 
-    text-align: center;
-    
-    padding: 25px;
-
-
-    background-color:rgb(126, 229, 218) ;
-
+    margin-top:10px
 }
-.cont2{
-    box-sizing: border-box;
-    text-align: center;
-    background-color: aqua;
+
+
+
 
     
 
 
-    padding-left: 15px;
-}
+
+    
+
 
 
